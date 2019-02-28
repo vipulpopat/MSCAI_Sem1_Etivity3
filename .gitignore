@@ -2,3 +2,6 @@
 
 .ipynb_checkpoints/
 *.xlsx
+iris_nolabels.csv
+Lab+3+-+Clustering+and+Manifold+Learning.ipynb
+loans_dataset_et3.csv
